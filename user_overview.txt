@@ -1,0 +1,61 @@
+USER OVERVIEW
+
+Total number of users: 8
+Total number of tasks: 5
+
+Admin
+	Task assigned: 2
+	% of task on total: 40.0%
+	% of task completed: 50.0%
+	% of task uncompleted: 50.0%
+	% of task uncompleted and overdued: 100.0%
+
+Mattia
+	Task assigned: 2
+	% of task on total: 40.0%
+	% of task completed: 0.0%
+	% of task uncompleted: 100.0%
+	% of task uncompleted and overdued: 50.0%
+
+Claud
+	Task assigned: 1
+	% of task on total: 20.0%
+	% of task completed: 0.0%
+	% of task uncompleted: 100.0%
+	% of task uncompleted and overdued: 0.0%
+
+Simona
+	Task assigned: 0
+	% of task on total: 0%
+	% of task completed: n.a.
+	% of task uncompleted: n.a.
+	% of task uncompleted and overdued: n.a.
+
+Antonio
+	Task assigned: 0
+	% of task on total: 0%
+	% of task completed: n.a.
+	% of task uncompleted: n.a.
+	% of task uncompleted and overdued: n.a.
+
+Jhon
+	Task assigned: 0
+	% of task on total: 0%
+	% of task completed: n.a.
+	% of task uncompleted: n.a.
+	% of task uncompleted and overdued: n.a.
+
+Mike
+	Task assigned: 0
+	% of task on total: 0%
+	% of task completed: n.a.
+	% of task uncompleted: n.a.
+	% of task uncompleted and overdued: n.a.
+
+Robert
+	Task assigned: 0
+	% of task on total: 0%
+	% of task completed: n.a.
+	% of task uncompleted: n.a.
+	% of task uncompleted and overdued: n.a.
+

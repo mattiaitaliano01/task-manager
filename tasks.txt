@@ -1,0 +1,5 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, Yes
+Mattia, Task 21, Finish the task, 12 Dec 2022, 13 Dec 2022, No
+Claud, Ciao, Say Ciao to everyone you meet, 13 Dec 2022, 23 May 2024, No
+Mattia, Report your activity, Report your activity each day before lunch., 19 Dec 2022, 09 Jan 2029, No
